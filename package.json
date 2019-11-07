@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.13.0",
+  "description": "Simple Web App ",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokhrelsishir/Intro-To-Node.git"
+  },
+  "author": "Sishir Pokhrel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pokhrelsishir/Intro-To-Node/issues"
+  },
+  "homepage": "https://github.com/pokhrelsishir/Intro-To-Node#readme"
+}
